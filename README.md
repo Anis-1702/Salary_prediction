@@ -1,2 +1,1 @@
-# Salary_prediction
-using Logistic Regression
+# Salary_prediction using Logistic regression
